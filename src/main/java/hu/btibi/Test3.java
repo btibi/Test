@@ -11,7 +11,6 @@ public class Test3 {
     }
 
     private static class Parent {
-
         int number;
 
         protected void modify() {
